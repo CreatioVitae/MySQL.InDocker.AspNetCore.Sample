@@ -1,0 +1,1 @@
+# MySQL.InDocker.AspNetCore.Sample
